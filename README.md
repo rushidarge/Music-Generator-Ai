@@ -1,5 +1,6 @@
 
-Music Generation Ai
+# Music Generation Ai
+[Medium article link](https://rushikeshdarge.medium.com/music-generation-ai-fc0241c59372)
 ===================
 
 ![Photo by Arseny Togulev on Unsplash](https://miro.medium.com/max/2800/0*H7fvQVu0tpAsPYe1)
