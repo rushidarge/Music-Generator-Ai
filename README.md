@@ -1,8 +1,6 @@
 
 <h1> Music Generation Ai</h1>
 <h5>[Medium article link](https://rushikeshdarge.medium.com/music-generation-ai-fc0241c59372)</h5>
-
-[Medium article link](https://rushikeshdarge.medium.com/music-generation-ai-fc0241c59372)
 ===================
 
 ![Photo by Arseny Togulev on Unsplash](https://miro.medium.com/max/2800/0*H7fvQVu0tpAsPYe1)
