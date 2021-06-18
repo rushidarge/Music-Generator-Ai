@@ -2,10 +2,6 @@
 Music Generation Ai
 ===================
 
-[![Rushikesh Darge](https://miro.medium.com/fit/c/56/56/1*dmbNkD5D-u45r44go_cf0g.png)](/?source=post_page-----fc0241c59372--------------------------------)
-
-](/music-generation-ai-fc0241c59372?source=post_page-----fc0241c59372--------------------------------)
-
 ![Photo by Arseny Togulev on Unsplash](https://miro.medium.com/max/2800/0*H7fvQVu0tpAsPYe1)
 
 > **‘The art of ordering tones or sound in succession, in combination is music.’ -Definition of music by a dictionary**
